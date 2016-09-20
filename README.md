@@ -1,4 +1,4 @@
 # ComputerAvailability
 
  Guide of building the ComputerAvailability system
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/TonyMeiDeveloper/GuideOnTheSide/blob/master/GuidePictures/AWS.png "Logo Title Text 1")
