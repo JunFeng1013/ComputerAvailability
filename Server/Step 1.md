@@ -56,12 +56,31 @@
   ![alt text](https://github.com/JunFeng1013/ComputerAvailability/blob/master/Picture/step1-3-7.png)
 ##Step 1-4: Setup environment
   The first thing you need to do is update.
-  ---
   ```
   sudo apt-get update
   ```
-  ---
   (picture)
   ---
+  And install some necessary application.
+  ```
+  sudo apt-get install apache2 libapache2-mod-php5 mysql-server php5-mysql php5
+  ``` 
+  (picture)
+  ---
+  When you get this view, you need to set your password for root.
+  (picture)
+  ---
+  After that, restart apache server to apply changes to your instance server.
+  ```
+  sudo service apache2 restart
+  ```
+  (picture)
+  ---
+  And then, do a MySQL installation. Enter the same password you set before for MySQL. 
+  ```
+  sudo mysql_secure_installation
+  ```
+  (picture)
+  
 
   
