@@ -6,6 +6,7 @@
 ---  
   And then, you just need to follow those picture to finish it step by step.
   ![alt text](https://github.com/JunFeng1013/ComputerAvailability/blob/master/Picture/step1-1-2.png)
+##Step 1-2:Build your server
   ![alt text](https://github.com/JunFeng1013/ComputerAvailability/blob/master/Picture/step1-2-1.png)
   ![alt text](https://github.com/JunFeng1013/ComputerAvailability/blob/master/Picture/step1-2-2.png)
   ![alt text](https://github.com/JunFeng1013/ComputerAvailability/blob/master/Picture/step1-2-3.png)
@@ -17,7 +18,19 @@
   ---
   You just need to save this .pem file in somewhere, and we need to use it to generate our password for logging in the server.
   ![alt text](https://github.com/JunFeng1013/ComputerAvailability/blob/master/Picture/step1-2-8.png)
-  ![alt text](https://github.com/JunFeng1013/ComputerAvailability/blob/master/Picture/step1-2-9.png)  
-##Step 1-2:Build your server
+  ![alt text](https://github.com/JunFeng1013/ComputerAvailability/blob/master/Picture/step1-2-9.png)
+##Step 1-3:Connect to the server
+  Because I use Windows to build this one, I'll introduce how to do that on Windows. If your system is Linux or Mac, you can follow this link: https://github.com/TonyMeiDeveloper/GuideOnTheSide/blob/master/MoreResources/TerminalSSH.md
+  ---
+  Before we do that, we need to download Putty, and you can find it one this page: http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html
+  ---
+  (picture)
+  ---
+  When you finish that, run Puttygen at first, and you can get this picture.
+  ---
+  (picture)
+  ---
+  
+
 
   
