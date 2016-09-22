@@ -53,34 +53,40 @@
   ---
   And then, you just need to type "ubuntu" to log in.
   ---
-  ![alt text](https://github.com/JunFeng1013/ComputerAvailability/blob/master/Picture/step1-3-7.png)
+  ![alt text](https://github.com/JunFeng1013/ComputerAvailability/blob/master/Picture/step1-3-8.png)
 ##Step 1-4: Setup environment
   The first thing you need to do is update.
   ```
   sudo apt-get update
   ```
-  (picture)
+  ![alt text](https://github.com/JunFeng1013/ComputerAvailability/blob/master/Picture/step1-4-1.png)
   ---
   And install some necessary application.
   ```
   sudo apt-get install apache2 libapache2-mod-php5 mysql-server php5-mysql php5
   ``` 
-  (picture)
+  ![alt text](https://github.com/JunFeng1013/ComputerAvailability/blob/master/Picture/step1-4-2.png)
   ---
   When you get this view, you need to set your password for root.
-  (picture)
+  ![alt text](https://github.com/JunFeng1013/ComputerAvailability/blob/master/Picture/step1-4-3.png)
   ---
   After that, restart apache server to apply changes to your instance server.
   ```
   sudo service apache2 restart
   ```
-  (picture)
+  ![alt text](https://github.com/JunFeng1013/ComputerAvailability/blob/master/Picture/step1-4-4.png)
   ---
   And then, do a MySQL installation. Enter the same password you set before for MySQL. 
   ```
   sudo mysql_secure_installation
   ```
-  (picture)
-  
+  ![alt text](https://github.com/JunFeng1013/ComputerAvailability/blob/master/Picture/step1-4-5.png)
+  ---
+  On this step, you need to type your password which you just saved.(Ps. When you type the password, there are no words on the screen. You don't need to worry about just, and you just need to put in your password)
+  ![alt text](https://github.com/JunFeng1013/ComputerAvailability/blob/master/Picture/step1-4-6.png)
+  ---
+  Last step in this part, you need to copy the Public DNS of your server, and paste it in a browser. If you get this picture, you did it. If not, please check every step.
+  ![alt text](https://github.com/JunFeng1013/ComputerAvailability/blob/master/Picture/step1-4-7.png)
+    
 
   
