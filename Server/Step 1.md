@@ -57,9 +57,9 @@
 ##Step 1-4: Setup environment
   The first thing you need to do is update.
   ---
-  '''
+  ```
   sudo apt-get update
-  '''
+  ```
   ---
   (picture)
   ---
