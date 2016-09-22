@@ -13,7 +13,9 @@
   ![alt text](https://github.com/JunFeng1013/ComputerAvailability/blob/master/Picture/step1-2-5.png)
   ![alt text](https://github.com/JunFeng1013/ComputerAvailability/blob/master/Picture/step1-2-6-1.png)
   ![alt text](https://github.com/JunFeng1013/ComputerAvailability/blob/master/Picture/step1-2-6-2.png)
-  ![alt text](https://github.com/JunFeng1013/ComputerAvailability/blob/master/Picture/step1-2-7.png)  
+  ![alt text](https://github.com/JunFeng1013/ComputerAvailability/blob/master/Picture/step1-2-7.png)
+  ---
+  You just need to save this .pem file in somewhere, and we need to use it to generate our password for logging in the server.
   ![alt text](https://github.com/JunFeng1013/ComputerAvailability/blob/master/Picture/step1-2-8.png)
   ![alt text](https://github.com/JunFeng1013/ComputerAvailability/blob/master/Picture/step1-2-9.png)  
 ##Step 1-2:Build your server
