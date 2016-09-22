@@ -24,11 +24,18 @@
   ---
   Before we do that, we need to download Putty, and you can find it one this page: http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html
   ---
-  (picture)
+  ![alt text](https://github.com/JunFeng1013/ComputerAvailability/blob/master/Picture/step1-3-1.png)
   ---
   When you finish that, run Puttygen at first, and you can get this picture.
   ---
-  (picture)
+  ![alt text](https://github.com/JunFeng1013/ComputerAvailability/blob/master/Picture/step1-3-2.png)
+  ---
+  When you load the file, you need to select the type of files to all, and find the .pem file which you saved few minutes ago.
+  ---
+  ![alt text](https://github.com/JunFeng1013/ComputerAvailability/blob/master/Picture/step1-3-3.png)
+  ---
+  And then, you can save the private key, and the parameters must be same with picture.
+  ![alt text](https://github.com/JunFeng1013/ComputerAvailability/blob/master/Picture/step1-3-4.png)
   ---
   
 
