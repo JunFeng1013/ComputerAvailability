@@ -1,7 +1,8 @@
 #Server Side
 ##Step 3: Clone files to server
 Find the folder in server. Follow this order.
-picture
+![alt text](https://github.com/JunFeng1013/ComputerAvailability/blob/master/Picture/step3-1.png)
+![alt text](https://github.com/JunFeng1013/ComputerAvailability/blob/master/Picture/step3-2.png)
 ```
 sudo apt-get update
 sudo apt-get install git
