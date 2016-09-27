@@ -11,18 +11,15 @@ sudo apt-get install git
 ```
 ---
 And then, clone your files to server.
----
 ```
 sudo git clone https://github.com/JunFeng1013/ComputerAvailability
 ```
 ![alt text](https://github.com/JunFeng1013/ComputerAvailability/blob/master/Picture/step3-3.png)
 ---
 You can check the folder.
----
 ![alt text](https://github.com/JunFeng1013/ComputerAvailability/blob/master/Picture/step3-4.png)
 ---
 If you get this picture, you can go next step right now.
----
 ##Step 4: Set database
 
 
