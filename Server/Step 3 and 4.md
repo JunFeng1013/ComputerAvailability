@@ -21,5 +21,9 @@ You can check the folder.
 ---
 If you get this picture, you can go next step right now.
 ##Step 4: Set database
+Log in and create the database(the content is in the computer_availability.sql file)
+![alt text](https://github.com/JunFeng1013/ComputerAvailability/blob/master/Picture/step4-1.png)
+![alt text](https://github.com/JunFeng1013/ComputerAvailability/blob/master/Picture/step4-2.png)
+![alt text](https://github.com/JunFeng1013/ComputerAvailability/blob/master/Picture/step4-3.png)
 
 
