@@ -3,6 +3,7 @@
 Find the folder in server. Follow this order.
 ![alt text](https://github.com/JunFeng1013/ComputerAvailability/blob/master/Picture/step3-1.png)
 ![alt text](https://github.com/JunFeng1013/ComputerAvailability/blob/master/Picture/step3-2.png)
+---
 Under this folder, you can install the git.
 ```
 sudo apt-get update
