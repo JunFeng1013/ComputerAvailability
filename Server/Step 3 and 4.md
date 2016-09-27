@@ -15,7 +15,6 @@ And then, clone your files to server.
 sudo git clone https://github.com/JunFeng1013/ComputerAvailability
 ```
 ![alt text](https://github.com/JunFeng1013/ComputerAvailability/blob/master/Picture/step3-3.png)
----
 You can check the folder.
 ---
 ![alt text](https://github.com/JunFeng1013/ComputerAvailability/blob/master/Picture/step3-4.png)
