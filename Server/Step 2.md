@@ -11,6 +11,6 @@ sudo apt-get install phpmyadmin
 ![alt text](https://github.com/JunFeng1013/ComputerAvailability/blob/master/Picture/step2-3.png)
 ![alt text](https://github.com/JunFeng1013/ComputerAvailability/blob/master/Picture/step2-4.png)
 ---
-When you finish setting password, you can type in http://(yourdomain)/phpmyadmin.
+When you finish setting password, you can type in http://(yourdomain)/phpmyadmin, and get this picture.
 ![alt text](https://github.com/JunFeng1013/ComputerAvailability/blob/master/Picture/step2-5.png)
 
