@@ -224,7 +224,7 @@ mysql_close($DB);
                                 addicons($raynorfirst);
                         ?>
 
-                <img src="/ComputerAvailability/Images/RaynorFirst.png"  alt="bg" />
+                <img src="../Server-files/RaynorFirst.png" style="width:100%; height:100%" />
         </div>
 
     </div>
@@ -248,8 +248,8 @@ mysql_close($DB);
                                 addicons($raynorsecond);
                         ?>
 
-
-                <img src="/ComputerAvailability/Images/RaynorSecond.png" alt="bg" />
+                 
+                <img src="../Server-files/RaynorSecond.png" style="width:100%; height:100%" />             
         </div>
 
     </div>
@@ -268,8 +268,8 @@ mysql_close($DB);
                                 addicons($raynorlower);
                         ?>
 
-
-                <img src="/ComputerAvailability/Images/RaynorLower.png"  alt="bg" />
+                 
+                <img src="../Server-files/RaynorLower.png" style="width:100%; height:100%" /> 
         </div>
 
 
@@ -290,8 +290,8 @@ mysql_close($DB);
                                 addicons($raynormemorial);
                         ?>
 
-
-                <img src="/ComputerAvailability/Images/RaynorMemorial.png"  alt="bg" />
+                 
+                <img src="../Server-files/RaynorMemorial.png" style="width:100%; height:100%" />           
         </div>
 
 
