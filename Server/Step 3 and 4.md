@@ -46,10 +46,14 @@ After that, you need to change statuschange.php. The process is same with comput
 ```
 sudo vim statuschange.php
 ```
-picture4.8
-picture4.9
+![alt text](https://github.com/JunFeng1013/ComputerAvailability/blob/master/Picture/step4-8.png)
+![alt text](https://github.com/JunFeng1013/ComputerAvailability/blob/master/Picture/step4-9.png)
 ---
-Last step in this part is to fix the path of resource picture.
+Untill now, you have finished all setting on server side, and you can view the website right now. You just need to type "(server ip address)/ComputerAvailability/Server-files/computers.php"
+![alt text](https://github.com/JunFeng1013/ComputerAvailability/blob/master/Picture/step4-11.png)
+![alt text](https://github.com/JunFeng1013/ComputerAvailability/blob/master/Picture/step4-12.png)
+---
+If you get this picture, you can go to the client side.
 
 
 
