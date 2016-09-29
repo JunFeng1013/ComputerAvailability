@@ -146,4 +146,4 @@ Function HTTPPost(sUrl, sRequest)
   HTTPPost = oHTTP.responseText
  End Function
 
-MsgBox("description="&strDescription&"vasplit="&vasplit(0)&"workstation=" & strComputerName & "&configuration=" &strConfiguration & "&floor=" &strFloor)
+'MsgBox("description="&strDescription&"vasplit="&vasplit(0)&"workstation=" & strComputerName & "&configuration=" &strConfiguration & "&floor=" &strFloor)
