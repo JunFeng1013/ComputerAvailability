@@ -33,8 +33,9 @@ sudo vim computers.php
 ```
 ![alt text](https://github.com/JunFeng1013/ComputerAvailability/blob/master/Picture/step4-5.png)
 ---
-When you get this picture, you need to find the position of username and password. And then press Insert button to change the content.
+When you get this picture, you need to find the position of username and password. And then press Insert button to change the content like this picture.
 ![alt text](https://github.com/JunFeng1013/ComputerAvailability/blob/master/Picture/step4-6.png)
+---
 When you finish this one, you need to press Esc to quit this process, and type in this to save and quit file.
 ```
 :wq
