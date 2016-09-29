@@ -12,6 +12,6 @@ However, if you use VB codes, you need to follow this step to check the connecti
 When you run the code, the database only can get the name, status, type, configuration, and floor. You need to set the position by yourself.
 ![alt text](https://github.com/JunFeng1013/ComputerAvailability/blob/master/Picture/client 1-4.png)
 ---
-When you set all position, you will get a picture like this one. If you get it, 
+When you set all position, you will get a picture like this one. If you get it, congrats, you have the system. 
 ![alt text](https://github.com/JunFeng1013/ComputerAvailability/blob/master/Picture/client 1-5.png)
 
