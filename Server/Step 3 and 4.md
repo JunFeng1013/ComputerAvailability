@@ -27,19 +27,19 @@ Log in and create the database(the content is in the computer_availability.sql f
 ![alt text](https://github.com/JunFeng1013/ComputerAvailability/blob/master/Picture/step4-3.png)
 ---
 Now, you have a database, and then, you need to connect this database to the file-computers.php.
-picture 4-4
+![alt text](https://github.com/JunFeng1013/ComputerAvailability/blob/master/Picture/step4-4.png)
 ```
 sudo vim computers.php
 ```
-picture 4-5
+![alt text](https://github.com/JunFeng1013/ComputerAvailability/blob/master/Picture/step4-5.png)
 ---
 When you get this picture, you need to find the position of username and password. And then press Insert button to change the content.
-picture 4-6
+![alt text](https://github.com/JunFeng1013/ComputerAvailability/blob/master/Picture/step4-6.png)
 When you finish this one, you need to press Esc to quit this process, and type in this to save and quit file.
 ```
 :wq
 ```
-picture 4-7
+![alt text](https://github.com/JunFeng1013/ComputerAvailability/blob/master/Picture/step4-7.png)
 
 
 
