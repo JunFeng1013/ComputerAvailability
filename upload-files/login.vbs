@@ -94,7 +94,7 @@ If CheckSite(strwebsite) Then
 		'URL to open, specify your domain for your server....
 		sUrl = "http://52.39.251.146/ComputerAvailability/ComputerAvailability/statuschange.php"
 		'POST Request to send.
-		sRequest = "status=0&workstation=" & strComputerName & "&configuration=" &strConfiguration & "&floor=" &strFloor 
+		sRequest = "status=1&workstation=" & strComputerName & "&configuration=" &strConfiguration & "&floor=" &strFloor 
 		HTTPPost sUrl, sRequest
 	Else
 		'WScript.Echo "can't connect to " & strserversite
